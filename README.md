@@ -6,7 +6,7 @@ This project was made from Kirill Eremenko and Hadelin de Ponteves course on Dee
 **Requirements:**
 numpy,
 pandas,
-matplot,
+matplotlib,
 keras,
 tensorflow,
 sklearn
